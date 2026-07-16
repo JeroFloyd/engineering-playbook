@@ -45,11 +45,10 @@ See:
 
 ## Contact
 
-GitHub:
-...
+Phone: +91 8754353661
 
-LinkedIn:
-...
+LinkedIn: https://www.linkedin.com/in/jerovin-floyd-vincent-joseph-09bb40304/
 
-Email:
-...
+
+Email: jerovin23261@iiitd.ac.in
+
