@@ -37,13 +37,9 @@ An AI-powered Android accessibility middleware that simplifies existing applicat
 
 See:
 
-media/chillgui-demo.mp4
+[media/chillgui-demo.mp4](https://drive.google.com/file/d/1rwWH-ui3sDhzhwixuTau8uw-jeMh7-CT/view?usp=sharing)
 
-or
 
-Watch here:
-
-<your YouTube/Drive link>
 
 ---
 
