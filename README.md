@@ -1,3 +1,9 @@
+> AI can generate code.
+
+> Engineers generate confidence.
+
+This repository documents how I use AI as an engineering collaborator while remaining responsible for architecture, verification, testing, and production quality.
+
 # Building Software with AI
 
 This repository accompanies my application for AI-native software engineering roles.
